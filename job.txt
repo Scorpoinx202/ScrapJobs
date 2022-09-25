@@ -1,0 +1,74 @@
+Exeption: 'NoneType' object has no attribute 'get_text'
+Exeption: 'NoneType' object has no attribute 'get_text'
+Exeption: 'NoneType' object has no attribute 'get_text'
+Exeption: 'NoneType' object has no attribute 'get_text'
+Exeption: 'NoneType' object has no attribute 'get_text'
+Exeption: 'NoneType' object has no attribute 'get_text'
+Exeption: 'NoneType' object has no attribute 'get_text'
+Titulo: Python Engineering Manager
+Lugar: Roma
+Link: https://it.jooble.org/away/8203473379900785287
+Titulo: SOFTWARE ENGINEER PYTHON
+Lugar: Milano
+Link: https://it.jooble.org/away/-2257486123055700260
+Titulo: Senior Python Developer - FinTech
+Lugar: Milano
+Link: https://it.jooble.org/away/-8043518638838226090
+Titulo: DELIVERY - PYTHON DEVELOPER
+Lugar: Milano
+Link: https://it.jooble.org/away/-8983404454037366516
+Titulo: Senior Python Software Engineer
+Lugar: Torino
+Link: https://it.jooble.org/away/-163875691591945968
+Titulo: Python Engineer
+Lugar: Ascoli Piceno (AP)
+Link: https://it.jooble.org/away/-337842300225482380
+Titulo: Cloud Engineer
+Lugar: Italia
+Link: https://it.jooble.org/desc/-5462018898881988928
+Titulo: Python Software Engineer, Commercial Systems
+Lugar: Torino
+Link: https://it.jooble.org/away/-4990862214790033227
+Titulo: Senior Software Engineer - Python/MongoDB
+Lugar: Torino
+Link: https://it.jooble.org/away/8259732819445177343
+Titulo: Python developer
+Lugar: Napoli
+Link: https://it.jooble.org/desc/-2515982108713842486
+Titulo: PYTHON DEVELOPER | SVILUPPATORE PYTHON | PYTHON SOFTWARE ENGINEER
+Lugar: Roma
+Link: https://it.jooble.org/away/-7117301138884171405
+Titulo: Python Developer
+Lugar: Sii uno dei primi a candidarsi
+Link: https://it.jooble.org/desc/-9151053438002875517
+Titulo: Sviluppatore Python
+Lugar: Milano
+Link: https://it.jooble.org/desc/3216721339440808089
+Titulo: PYTHON DEVELOPER| SVILUPPATORE| DJANGO| FLASK
+Lugar: Milano
+Link: https://it.jooble.org/away/2240050869636276978
+Titulo: Identity Platform Engineering Manager - Python/Go
+Lugar: Roma
+Link: https://it.jooble.org/away/5750619099929944016
+Titulo: Software Developer C/C+ - Python
+Lugar: Napoli
+Link: https://it.jooble.org/away/-5387787939719715100
+Titulo: PYTHON DEVELOPER | SVILUPPATORE PYTHON | BACKEND DEVELOPER
+Lugar: Milano
+Link: https://it.jooble.org/away/-8469976631944038855
+Titulo: Sviluppatore Python
+Lugar: Firenze
+Link: https://it.jooble.org/desc/6504221837557825637
+Titulo: Senior Software Engineer - Python/Golang - Kubernetes
+Lugar: Roma
+Link: https://it.jooble.org/away/8938387345825963
+Titulo: INFOTAINMENT SYSTEM ENGINEER
+Lugar: Italia
+Link: https://it.jooble.org/desc/7196911924225112842
+Exeption: 'NoneType' object has no attribute 'get_text'
+Exeption: 'NoneType' object has no attribute 'get_text'
+Exeption: 'NoneType' object has no attribute 'get_text'
+Exeption: 'NoneType' object has no attribute 'get_text'
+Exeption: 'NoneType' object has no attribute 'get_text'
+Exeption: 'NoneType' object has no attribute 'get_text'
+Exeption: 'NoneType' object has no attribute 'get_text'
